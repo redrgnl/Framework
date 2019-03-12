@@ -1,0 +1,34 @@
+
+/*
+  ------- css untuk profile -------
+*/
+
+.haha {
+    width: 50%;
+    margin:auto;
+}
+.hihi ul li{
+    list-style-type: none;
+  }
+.hihi{
+    width: 40%;
+    float: left;
+  }
+.haha:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.huhu ul li{
+    list-style-type: none;
+}
+.huhu{
+  width: 100%;
+  margin: auto;
+}
+  /*
+    ------- css untuk profile -------
+  */
+  /*
+    ----- css untuk hidding div -----
+  */
